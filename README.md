@@ -17,3 +17,9 @@ All processed ASV tables and associated metadata files used in the manuscript ar
 | Our's | [ASV](data/env_complexity_asv_publication.csv) | [Metadata](data/env_complexity_md_publication.csv)
 
 Meta-analysis was conducted by re-analyzing data from Goldford et al. 2018 (https://doi.org/10.1126/science.aat1168) and Bittleston et al. 2020 (https://doi.org/10.1038/s41467-020-15169-0).
+
+# Simulations
+Consumer resource model simulations were performed are available in [env_complexity_simulation_v2.ipynb](env_complexity_simulation_v2.ipynb). Functions for generating trophic *c* and *D* matrices can be found at https://github.com/michaelsilverstein/ms_tools/blob/main/ms_tools/crm.py.
+
+# Analyses
+All analysis was complete in [env_complexity_publication_figures.ipynb](env_complexity_publication_figures.ipynb).
